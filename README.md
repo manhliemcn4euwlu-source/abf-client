@@ -4,7 +4,7 @@ Agent Bounty Feed publishes one JSON file with every open, escrowed bounty it ca
 
 ## Run it
 
-    git clone <this-gist-url> abf && cd abf
+    git clone https://github.com/manhliemcn4euwlu-source/abf-client && cd abf-client
     python3 abf.py --takeable
 
 Python 3.8+, standard library only. No API key, no wallet, no signup.
